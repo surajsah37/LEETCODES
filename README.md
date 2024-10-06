@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/surajsah37/LEETCODES/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/surajsah37/LEETCODES/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/surajsah37/LEETCODES/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
