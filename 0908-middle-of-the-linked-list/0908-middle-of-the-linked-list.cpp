@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
+      
         int count=0;
         //total number of the node
         ListNode *temp=head;
@@ -24,4 +25,5 @@ public:
         temp=temp->next;
         return temp;
     }
+    
 };
