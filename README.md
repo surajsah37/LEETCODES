@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/surajsah37/LEETCODES/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/surajsah37/LEETCODES/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajsah37/LEETCODES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/surajsah37/LEETCODES/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/surajsah37/LEETCODES/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/surajsah37/LEETCODES/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
