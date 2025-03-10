@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/surajsah37/LEETCODES/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/surajsah37/LEETCODES/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
+| [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/surajsah37/LEETCODES/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2887-sort-vowels-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajsah37/LEETCODES/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
