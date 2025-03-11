@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/surajsah37/LEETCODES/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/surajsah37/LEETCODES/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/surajsah37/LEETCODES/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/surajsah37/LEETCODES/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/surajsah37/LEETCODES/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/surajsah37/LEETCODES/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
+| [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/surajsah37/LEETCODES/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
