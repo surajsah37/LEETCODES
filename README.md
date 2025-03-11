@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/surajsah37/LEETCODES/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/surajsah37/LEETCODES/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/surajsah37/LEETCODES/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/surajsah37/LEETCODES/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/surajsah37/LEETCODES/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/surajsah37/LEETCODES/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/surajsah37/LEETCODES/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/surajsah37/LEETCODES/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajsah37/LEETCODES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/surajsah37/LEETCODES/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/surajsah37/LEETCODES/tree/master/0908-middle-of-the-linked-list) |
