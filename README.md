@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajsah37/LEETCODES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/surajsah37/LEETCODES/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/surajsah37/LEETCODES/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/surajsah37/LEETCODES/tree/master/0518-coin-change-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/surajsah37/LEETCODES/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/surajsah37/LEETCODES/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/surajsah37/LEETCODES/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/surajsah37/LEETCODES/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/surajsah37/LEETCODES/tree/master/0242-valid-anagram) |
 | [2887-sort-vowels-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/2887-sort-vowels-in-a-string) |
 ## Simulation
@@ -145,5 +148,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
