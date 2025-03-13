@@ -4,7 +4,6 @@ public:
          stack<string> st;  // Stack to store words
     string word, result;  // Temporary variables for processing words
     int n = s.length();
-
     // Traverse the string to extract words
     for (int i = 0; i < n; i++) {
         if (s[i] != ' ') {  // If the character is not a space
@@ -15,12 +14,10 @@ public:
             word = "";  // Reset the word
         }
     }
-    
     // Push the last word if it exists
     if (!word.empty()) {
         st.push(word);
     }
-
     // Build the reversed string from stack
     while (!st.empty()) {
         result += st.top();  // Get the top word from the stack
@@ -29,8 +26,6 @@ public:
             result += " ";  // Add space if more words remain
         }
     }
-
     return result;  // Return the final reversed string
-
     }
 };
