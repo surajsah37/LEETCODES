@@ -1,84 +1,37 @@
-// class Solution {
-// public:
-//     void setZeroes(vector<vector<int>>& matrix) {
-//         int col0=1;
-//         int n,m;
-//         for(int i=0;i<n;i++){
-//             for(int j=0;j<m;j++){
-//                 if(matrix[i][j]==0){
-//                     matrix[i][0]=0;
-//                     if(j!=0)
-//                     matrix[0][i]=0;
-//                 }
-//                 else{
-//                     col0=0;
-//                 }
-//             }
-//         }
-//         for(int i=0;i<n;i++){
-//             for(int j=0;j<m;j++){
-//                 if(matrix[i][j]!=0){
-//                     // check for col and rows
-//                     if(matrix[i][0]==0 || matrix[0][j]==0){
-//                         matrix[i][j]=0;
-//                     }
-//                 }
-//             }
-//         }
-//         if(matrix[0][0]==0){
-//             for(int j=0;j<m;j++){
-//                 matrix[0][j]=0;
-//             }
-//         }
-//         if(col0==0){
-//             for(int i=0;i<n;i++){
-//                 matrix[i][0]=0;
-//             }
-//         }
-     
-//        return setZeroes;
-//     }
-// };
-
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int n = matrix.size();
-        int m = matrix[0].size();
-        int col0 = 1;
+         int m = matrix.size();    // Number of rows
+    int n = matrix[0].size(); // Number of columns
 
-        // Step 1: Mark zeroes using first row and first column
-        for (int i = 0; i < n; i++) {
-            if (matrix[i][0] == 0) col0 = 0;
-            for (int j = 1; j < m; j++) {
-                if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;  // Mark row
-                    matrix[0][j] = 0;  // Mark column
-                }
-            }
-        }
+    unordered_set<int> zeroRows; // Store indices of rows that need to be zeroed
+    unordered_set<int> zeroCols; // Store indices of columns that need to be zeroed
 
-        // Step 2: Update the matrix based on markings
-        for (int i = 1; i < n; i++) {
-            for (int j = 1; j < m; j++) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
-                    matrix[i][j] = 0;
-                }
-            }
-        }
-
-        // Step 3: Handle first row separately
-        if (matrix[0][0] == 0) {
-            for (int j = 0; j < m; j++) {
-                matrix[0][j] = 0;
-            }
-        }
-
-        // Step 4: Handle first column separately
-        if (col0 == 0) {
-            for (int i = 0; i < n; i++) {
-                matrix[i][0] = 0;
+    // Step 1: Identify rows and columns that contain zeroes
+    for (int i = 0; i < m; ++i) {
+        for (int j = 0; j < n; ++j) {
+            if (matrix[i][j] == 0) {
+                zeroRows.insert(i); // Mark the row index
+                zeroCols.insert(j); // Mark the column index
             }
         }
     }
+
+    // Step 2: Set entire rows to zero
+    for (int row : zeroRows)
+     
+     {  
+        // Iterate through all marked row indices
+        for (int j = 0; j < n; ++j) {
+            matrix[row][j] = 0; // Zero out the entire row
+        }
+    }
+
+    // Step 3: Set entire columns to zero
+    for (int col : zeroCols) { // Iterate through all marked column indices
+        for (int i = 0; i < m; ++i) {
+            matrix[i][col] = 0; // Zero out the entire column
+        }
+    }
+}
 };
