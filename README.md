@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/surajsah37/LEETCODES/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/surajsah37/LEETCODES/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/surajsah37/LEETCODES/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/surajsah37/LEETCODES/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/surajsah37/LEETCODES/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/surajsah37/LEETCODES/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
