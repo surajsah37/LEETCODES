@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/surajsah37/LEETCODES/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/surajsah37/LEETCODES/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/surajsah37/LEETCODES/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/surajsah37/LEETCODES/tree/master/0013-roman-to-integer) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/surajsah37/LEETCODES/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/surajsah37/LEETCODES/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/surajsah37/LEETCODES/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/surajsah37/LEETCODES/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/surajsah37/LEETCODES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/surajsah37/LEETCODES/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/surajsah37/LEETCODES/tree/master/0206-reverse-linked-list) |
