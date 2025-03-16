@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
+        /*
        
     if (head == nullptr || left == right) return head; // No need to reverse if list is empty or positions are the same
         
@@ -47,5 +48,31 @@ void printLinkedList(ListNode* head) {
         head = head->next;
     }
     std::cout << std::endl;
+*/
 
+
+        if (!head || left == right) return head; // Edge case: No reversal needed
+
+        ListNode* dummy = new ListNode(0); // Dummy node to handle edge cases
+        dummy->next = head;  
+        ListNode* prev = dummy; // Pointer to the node before the reversal segment
+
+        // Step 1: Move `prev` to the node before `left`
+        for (int i = 1; i < left; i++) {
+            prev = prev->next;
+        }
+
+        ListNode* curr = prev->next; // The first node in the reversal segment
+        ListNode* nextNode = nullptr; // To keep track of the next node during reversal
+
+        // Step 2: Reverse nodes from position `left` to `right`
+        for (int i = 0; i < right - left; i++) {
+            nextNode = curr->next; // Store the next node
+            curr->next = nextNode->next; // Move `curr` forward
+            nextNode->next = prev->next; // Insert `nextNode` at the beginning of the sublist
+            prev->next = nextNode; // Adjust `prev` to point to the new first node
+        }
+
+        return dummy->next; // Return the updated list (excluding dummy node)
+}
 };
