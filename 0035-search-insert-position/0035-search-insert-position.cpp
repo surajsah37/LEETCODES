@@ -1,23 +1,20 @@
 class Solution {
 public:
     int searchInsert(vector<int>& arr, int target) {
-        int start=0,end=arr.size()-1,ans=arr.size(),mid;
-        while(start<=end){
-            mid=start+(end-start)/2;
-            if(arr[mid]==target)
-            {
-                ans=mid;
-                break;
-
-            }
-            else if(arr[mid]<target)
-            start=mid+1;
-            else{
-                ans=mid;
-                end=mid-1;
-            }
-        }
-        return ans;
-
+       int left = 0, right = arr.size() - 1;  // Initialize left and right pointers
+    
+    while (left <= right) {  // Binary search loop
+        int mid = left + (right - left) / 2;  // Calculate middle index
+        
+        if (arr[mid] == target)  
+            return mid;  // Target found, return its index
+        
+        if (arr[mid] < target)  
+            left = mid + 1;  // Search in the right half
+        else  
+            right = mid - 1;  // Search in the left half
+    }
+    
+    return left;  // Left points to the insert position
     }
 };
