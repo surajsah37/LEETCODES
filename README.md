@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/surajsah37/LEETCODES/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/surajsah37/LEETCODES/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/surajsah37/LEETCODES/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/surajsah37/LEETCODES/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/surajsah37/LEETCODES/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/surajsah37/LEETCODES/tree/master/0274-h-index) |
 | [0518-coin-change-ii](https://github.com/surajsah37/LEETCODES/tree/master/0518-coin-change-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/surajsah37/LEETCODES/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/surajsah37/LEETCODES/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surajsah37/LEETCODES/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/surajsah37/LEETCODES/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/surajsah37/LEETCODES/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surajsah37/LEETCODES/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/surajsah37/LEETCODES/tree/master/0274-h-index) |
 | [2887-sort-vowels-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/2887-sort-vowels-in-a-string) |
