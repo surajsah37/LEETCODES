@@ -17,7 +17,8 @@ public:
     head->next = removeElements(head->next, val);
 
     // If current node contains the target value, skip it
-    return (head->val == val) ? head->next : head;
-
+    //return (head->val == val) ? head->next : head;
+       
+      return (head->val==val)?head->next:head;
     }
 };
