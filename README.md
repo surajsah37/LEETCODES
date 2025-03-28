@@ -217,4 +217,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/surajsah37/LEETCODES/tree/master/0595-big-countries) |
 | [1827-invalid-tweets](https://github.com/surajsah37/LEETCODES/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/surajsah37/LEETCODES/tree/master/1908-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
