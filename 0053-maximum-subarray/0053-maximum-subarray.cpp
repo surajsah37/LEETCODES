@@ -23,8 +23,7 @@ public:
         if (currentsum < 0) 
             currentsum = 0; // Reset currentsum if it becomes negative
     }
-    
     return maxsum;
 }
-
 };
+ 
