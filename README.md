@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/surajsah37/LEETCODES/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
 ## Queue
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/surajsah37/LEETCODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/surajsah37/LEETCODES/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/surajsah37/LEETCODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/surajsah37/LEETCODES/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -251,5 +254,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/surajsah37/LEETCODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/surajsah37/LEETCODES/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
