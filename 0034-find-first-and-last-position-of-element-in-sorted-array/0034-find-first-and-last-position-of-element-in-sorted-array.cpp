@@ -12,9 +12,7 @@ public:
         else if(nums[mid]<target)
         start=mid+1;
         else
-        end=mid-1;
-    }
-
+        end=mid-1;}
   // find last
    start=0, end=nums.size()-1; 
   while(start<=end){
@@ -35,4 +33,6 @@ public:
 
     return a;
     }
+   
 };
+
