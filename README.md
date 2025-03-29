@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/surajsah37/LEETCODES/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
 ## Queue
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/surajsah37/LEETCODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/surajsah37/LEETCODES/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/surajsah37/LEETCODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/surajsah37/LEETCODES/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/surajsah37/LEETCODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/surajsah37/LEETCODES/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajsah37/LEETCODES/tree/master/0104-maximum-depth-of-binary-tree) |
