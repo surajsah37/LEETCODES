@@ -6,7 +6,7 @@ public:
     while(n%3==0)
     n/=3;
     return n==1;
-    }
+}
 };
 
 // The largest power of 3 within the range of int (3^19 = 1162261467)
