@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/surajsah37/LEETCODES/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/surajsah37/LEETCODES/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/surajsah37/LEETCODES/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/surajsah37/LEETCODES/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-largest-odd-number-in-string](https://github.com/surajsah37/LEETCODES/tree/master/2032-largest-odd-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
 |  |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/surajsah37/LEETCODES/tree/master/0173-binary-search-tree-iterator) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/surajsah37/LEETCODES/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
