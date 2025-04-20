@@ -1,5 +1,5 @@
 
-SELECT eu.unique_id As unique_id,e.name As name
+SELECT eu.unique_id,e.name 
 FROM Employees e
 LEFT JOIN EmployeeUNI eu
 ON e.id=eu.id
