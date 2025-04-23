@@ -1,15 +1,4 @@
-
-SELECT eu.unique_id,e.name 
-FROM Employees e
-LEFT JOIN EmployeeUNI eu
-ON e.id=eu.id
-
-
-
-
-
-
--- SELECT euni.unique_id, e.name
--- FROM Employees e
--- LEFT JOIN EmployeeUNI euni
--- ON e.id = euni.id;
+SELECT E.name,EU.unique_id
+FROM Employees E
+LEFT JOIN EmployeeUNI EU
+ON E.id = EU.id
