@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
+| [0812-rotate-string](https://github.com/surajsah37/LEETCODES/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/surajsah37/LEETCODES/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/surajsah37/LEETCODES/tree/master/2032-largest-odd-number-in-string) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/surajsah37/LEETCODES/tree/master/0812-rotate-string) |
 ## Prefix Sum
 |  |
 | ------- |
