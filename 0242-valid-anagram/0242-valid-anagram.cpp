@@ -1,6 +1,31 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
+        if(s.length()!=t.length()){
+            return false;
+        }
+        sort(s.begin(),s.end());
+        sort(t.begin(),t.end());
+        return s==t;
+    }
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /*
          if (s.length() != t.length()) return false;  // If lengths are different, they can't be anagrams
 
     vector<int> freq(26, 0);  // Array to store frequency of each character (size 26 for 'a' to 'z')
@@ -23,4 +48,4 @@ public:
     return true;  // All counts are zero, so they are anagrams
 
     }
-};
+    */
