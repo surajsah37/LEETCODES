@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/surajsah37/LEETCODES/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/surajsah37/LEETCODES/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/surajsah37/LEETCODES/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/surajsah37/LEETCODES/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/surajsah37/LEETCODES/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/surajsah37/LEETCODES/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/surajsah37/LEETCODES/tree/master/1811-fix-names-in-a-table) |
