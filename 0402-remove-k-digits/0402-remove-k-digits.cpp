@@ -26,7 +26,6 @@ public:
             leadingZero = false;
             result += c;
         }
-
         return result.empty() ? "0" : result;
     }
 };
