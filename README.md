@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surajsah37/LEETCODES/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/surajsah37/LEETCODES/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/surajsah37/LEETCODES/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/surajsah37/LEETCODES/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/surajsah37/LEETCODES/tree/master/0496-next-greater-element-i) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/surajsah37/LEETCODES/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/surajsah37/LEETCODES/tree/master/0173-binary-search-tree-iterator) |
 | [0937-online-stock-span](https://github.com/surajsah37/LEETCODES/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
