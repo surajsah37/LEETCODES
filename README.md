@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/surajsah37/LEETCODES/tree/master/0626-exchange-seats) |
 | [1153-product-sales-analysis-i](https://github.com/surajsah37/LEETCODES/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/surajsah37/LEETCODES/tree/master/1161-project-employees-i) |
+| [1278-product-price-at-a-given-date](https://github.com/surajsah37/LEETCODES/tree/master/1278-product-price-at-a-given-date) |
 | [1338-queries-quality-and-percentage](https://github.com/surajsah37/LEETCODES/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/surajsah37/LEETCODES/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/surajsah37/LEETCODES/tree/master/1462-list-the-products-ordered-in-a-period) |
