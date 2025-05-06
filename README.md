@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/surajsah37/LEETCODES/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/surajsah37/LEETCODES/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/surajsah37/LEETCODES/tree/master/2057-count-salary-categories) |
+| [2087-confirmation-rate](https://github.com/surajsah37/LEETCODES/tree/master/2087-confirmation-rate) |
 ## Tree
 |  |
 | ------- |
