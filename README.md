@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/surajsah37/LEETCODES/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/surajsah37/LEETCODES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/surajsah37/LEETCODES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/surajsah37/LEETCODES/tree/master/0518-coin-change-ii) |
