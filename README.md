@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/surajsah37/LEETCODES/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/surajsah37/LEETCODES/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/surajsah37/LEETCODES/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/surajsah37/LEETCODES/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/surajsah37/LEETCODES/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/surajsah37/LEETCODES/tree/master/0217-contains-duplicate) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/surajsah37/LEETCODES/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/surajsah37/LEETCODES/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/surajsah37/LEETCODES/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/surajsah37/LEETCODES/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/surajsah37/LEETCODES/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
@@ -417,5 +419,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/surajsah37/LEETCODES/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/surajsah37/LEETCODES/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/surajsah37/LEETCODES/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
