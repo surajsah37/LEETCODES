@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/surajsah37/LEETCODES/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/surajsah37/LEETCODES/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/surajsah37/LEETCODES/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/surajsah37/LEETCODES/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/surajsah37/LEETCODES/tree/master/1646-kth-missing-positive-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/surajsah37/LEETCODES/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/surajsah37/LEETCODES/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/surajsah37/LEETCODES/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/surajsah37/LEETCODES/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/surajsah37/LEETCODES/tree/master/0966-binary-subarrays-with-sum) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/surajsah37/LEETCODES/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/surajsah37/LEETCODES/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajsah37/LEETCODES/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/surajsah37/LEETCODES/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/surajsah37/LEETCODES/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/surajsah37/LEETCODES/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/surajsah37/LEETCODES/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/surajsah37/LEETCODES/tree/master/0238-product-of-array-except-self) |
+| [0966-binary-subarrays-with-sum](https://github.com/surajsah37/LEETCODES/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/surajsah37/LEETCODES/tree/master/1046-max-consecutive-ones-iii) |
 ## Database
 |  |
