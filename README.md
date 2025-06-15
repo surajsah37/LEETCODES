@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/surajsah37/LEETCODES/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/surajsah37/LEETCODES/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/surajsah37/LEETCODES/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/surajsah37/LEETCODES/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/surajsah37/LEETCODES/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/surajsah37/LEETCODES/tree/master/0053-maximum-subarray) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/surajsah37/LEETCODES/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/surajsah37/LEETCODES/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/surajsah37/LEETCODES/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajsah37/LEETCODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/surajsah37/LEETCODES/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/surajsah37/LEETCODES/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/surajsah37/LEETCODES/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/surajsah37/LEETCODES/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/surajsah37/LEETCODES/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/surajsah37/LEETCODES/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/surajsah37/LEETCODES/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/surajsah37/LEETCODES/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surajsah37/LEETCODES/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/surajsah37/LEETCODES/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/surajsah37/LEETCODES/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/surajsah37/LEETCODES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0503-next-greater-element-ii) |
