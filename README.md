@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/surajsah37/LEETCODES/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajsah37/LEETCODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/surajsah37/LEETCODES/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/surajsah37/LEETCODES/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/surajsah37/LEETCODES/tree/master/0162-find-peak-element) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/surajsah37/LEETCODES/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/surajsah37/LEETCODES/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/surajsah37/LEETCODES/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/surajsah37/LEETCODES/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/surajsah37/LEETCODES/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/surajsah37/LEETCODES/tree/master/0242-valid-anagram) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/surajsah37/LEETCODES/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/surajsah37/LEETCODES/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/surajsah37/LEETCODES/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/surajsah37/LEETCODES/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/surajsah37/LEETCODES/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/surajsah37/LEETCODES/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/surajsah37/LEETCODES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/surajsah37/LEETCODES/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajsah37/LEETCODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/surajsah37/LEETCODES/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/surajsah37/LEETCODES/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/surajsah37/LEETCODES/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/surajsah37/LEETCODES/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/surajsah37/LEETCODES/tree/master/0213-house-robber-ii) |
@@ -198,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/surajsah37/LEETCODES/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/surajsah37/LEETCODES/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/surajsah37/LEETCODES/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
