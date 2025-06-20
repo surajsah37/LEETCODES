@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/surajsah37/LEETCODES/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/surajsah37/LEETCODES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/surajsah37/LEETCODES/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/surajsah37/LEETCODES/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/surajsah37/LEETCODES/tree/master/1013-fibonacci-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/surajsah37/LEETCODES/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/surajsah37/LEETCODES/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/surajsah37/LEETCODES/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/surajsah37/LEETCODES/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/0392-is-subsequence) |
@@ -516,4 +518,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/surajsah37/LEETCODES/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/surajsah37/LEETCODES/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/surajsah37/LEETCODES/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/surajsah37/LEETCODES/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
