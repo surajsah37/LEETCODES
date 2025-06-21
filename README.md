@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/surajsah37/LEETCODES/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajsah37/LEETCODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/surajsah37/LEETCODES/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/surajsah37/LEETCODES/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/surajsah37/LEETCODES/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/surajsah37/LEETCODES/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/surajsah37/LEETCODES/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/surajsah37/LEETCODES/tree/master/0957-minimum-add-to-make-parentheses-valid) |
