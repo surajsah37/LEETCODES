@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/surajsah37/LEETCODES/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/surajsah37/LEETCODES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/surajsah37/LEETCODES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0503-next-greater-element-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/surajsah37/LEETCODES/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/surajsah37/LEETCODES/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/surajsah37/LEETCODES/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/surajsah37/LEETCODES/tree/master/1046-max-consecutive-ones-iii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/surajsah37/LEETCODES/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/surajsah37/LEETCODES/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/surajsah37/LEETCODES/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/surajsah37/LEETCODES/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/surajsah37/LEETCODES/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/surajsah37/LEETCODES/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/surajsah37/LEETCODES/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/surajsah37/LEETCODES/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/surajsah37/LEETCODES/tree/master/1370-count-number-of-nice-subarrays) |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/surajsah37/LEETCODES/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/surajsah37/LEETCODES/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/surajsah37/LEETCODES/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
