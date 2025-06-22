@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/surajsah37/LEETCODES/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/surajsah37/LEETCODES/tree/master/1370-count-number-of-nice-subarrays) |
+| [1610-xor-operation-in-an-array](https://github.com/surajsah37/LEETCODES/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/surajsah37/LEETCODES/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/surajsah37/LEETCODES/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/surajsah37/LEETCODES/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/surajsah37/LEETCODES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/surajsah37/LEETCODES/tree/master/0338-counting-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/surajsah37/LEETCODES/tree/master/1610-xor-operation-in-an-array) |
 ## Design
 |  |
 | ------- |
