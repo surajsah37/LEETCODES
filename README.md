@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/surajsah37/LEETCODES/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajsah37/LEETCODES/tree/master/0424-longest-repeating-character-replacement) |
+| [0686-repeated-string-match](https://github.com/surajsah37/LEETCODES/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/surajsah37/LEETCODES/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/surajsah37/LEETCODES/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/surajsah37/LEETCODES/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/surajsah37/LEETCODES/tree/master/0812-rotate-string) |
 ## Prefix Sum
 |  |
