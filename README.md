@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/surajsah37/LEETCODES/tree/master/0338-counting-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/surajsah37/LEETCODES/tree/master/1610-xor-operation-in-an-array) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/surajsah37/LEETCODES/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Design
 |  |
 | ------- |
