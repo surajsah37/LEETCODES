@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/surajsah37/LEETCODES/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0283-move-zeroes) |
+| [0403-frog-jump](https://github.com/surajsah37/LEETCODES/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/surajsah37/LEETCODES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/surajsah37/LEETCODES/tree/master/0496-next-greater-element-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/surajsah37/LEETCODES/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/surajsah37/LEETCODES/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/surajsah37/LEETCODES/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/surajsah37/LEETCODES/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/surajsah37/LEETCODES/tree/master/1013-fibonacci-number) |
