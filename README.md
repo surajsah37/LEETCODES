@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/surajsah37/LEETCODES/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/surajsah37/LEETCODES/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/surajsah37/LEETCODES/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/surajsah37/LEETCODES/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/surajsah37/LEETCODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/surajsah37/LEETCODES/tree/master/1610-xor-operation-in-an-array) |
