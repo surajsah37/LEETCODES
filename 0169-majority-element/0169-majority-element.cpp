@@ -1,37 +1,30 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        /*
-         int count = 0;      // Count of the current candidate
-    int candidate = 0;  // Variable to store the majority candidate
+        int freq = 0, candidate = 0;
 
-    // First pass: Find the majority candidate
-    for (int num : nums) {
-        if (count == 0) {  // If count is zero, assign new candidate
-            candidate = num;
-        }
-        count += (num == candidate) ? 1 : -1; // Increase or decrease count
-    }
-
-    return candidate; // The majority element is guaranteed to exist
-
-    }
-    */
- int count = 0;             // Initialize the counter
-        int candidate = 0;         // Variable to store the potential majority element
-
-        for (int i = 0; i < nums.size(); i++) {   // Traverse the entire array
-            if (count == 0) {                     // If count is zero, choose new candidate
+        // Step 1: Find the candidate
+        for (int i = 0; i < nums.size(); i++) {
+            if (freq == 0) {
                 candidate = nums[i];
             }
-
-            if (nums[i] == candidate) {           // If current element equals candidate
-                count++;                          // Increment count
+            if (nums[i] == candidate) {
+                freq++;
             } else {
-                count--;                          // Else, decrement count
+                freq--;
             }
         }
-
-        return candidate;                         // Return the candidate as the majority element
+        // Step 2: Verify the candidate
+        int count = 0;
+        for (int num : nums) {
+            if (num == candidate) {
+                count++;
+            }
+        }
+        if (count > nums.size() / 2) {
+            return candidate;
+        }
+        // If no majority element exists (depends on problem constraints)
+        return -1;  // Or throw an error if majority is guaranteed
     }
 };
