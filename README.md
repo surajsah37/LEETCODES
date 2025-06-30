@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/surajsah37/LEETCODES/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/surajsah37/LEETCODES/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/surajsah37/LEETCODES/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/surajsah37/LEETCODES/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/surajsah37/LEETCODES/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/surajsah37/LEETCODES/tree/master/0966-binary-subarrays-with-sum) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/surajsah37/LEETCODES/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
+| [0890-lemonade-change](https://github.com/surajsah37/LEETCODES/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/surajsah37/LEETCODES/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/surajsah37/LEETCODES/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
