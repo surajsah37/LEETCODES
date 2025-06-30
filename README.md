@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/surajsah37/LEETCODES/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/surajsah37/LEETCODES/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/surajsah37/LEETCODES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/surajsah37/LEETCODES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0503-next-greater-element-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/surajsah37/LEETCODES/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/surajsah37/LEETCODES/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/surajsah37/LEETCODES/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/surajsah37/LEETCODES/tree/master/0583-delete-operation-for-two-strings) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/surajsah37/LEETCODES/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/surajsah37/LEETCODES/tree/master/0274-h-index) |
+| [0435-non-overlapping-intervals](https://github.com/surajsah37/LEETCODES/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/surajsah37/LEETCODES/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/2887-sort-vowels-in-a-string) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/surajsah37/LEETCODES/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/surajsah37/LEETCODES/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/surajsah37/LEETCODES/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/surajsah37/LEETCODES/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/surajsah37/LEETCODES/tree/master/0890-lemonade-change) |
