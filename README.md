@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/surajsah37/LEETCODES/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/surajsah37/LEETCODES/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/surajsah37/LEETCODES/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/surajsah37/LEETCODES/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/surajsah37/LEETCODES/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/surajsah37/LEETCODES/tree/master/0160-intersection-of-two-linked-lists) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surajsah37/LEETCODES/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/surajsah37/LEETCODES/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surajsah37/LEETCODES/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/surajsah37/LEETCODES/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/surajsah37/LEETCODES/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/surajsah37/LEETCODES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/surajsah37/LEETCODES/tree/master/0203-remove-linked-list-elements) |
