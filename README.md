@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/surajsah37/LEETCODES/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/surajsah37/LEETCODES/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/surajsah37/LEETCODES/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/surajsah37/LEETCODES/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/surajsah37/LEETCODES/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajsah37/LEETCODES/tree/master/0240-search-a-2d-matrix-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/surajsah37/LEETCODES/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/surajsah37/LEETCODES/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/surajsah37/LEETCODES/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/surajsah37/LEETCODES/tree/master/0383-ransom-note) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/surajsah37/LEETCODES/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/surajsah37/LEETCODES/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/surajsah37/LEETCODES/tree/master/0274-h-index) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/surajsah37/LEETCODES/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/surajsah37/LEETCODES/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
