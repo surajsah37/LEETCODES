@@ -1,23 +1,21 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-          int n = nums.size();
-        unordered_map<int, int> mpp; // Hash map to store the number and its index
-        
-        for (int i = 0; i < n; i++) {
-            int num = nums[i]; // Get the current number
-            int moreNeeded = target - num; // Calculate the complement
-            
-            // If the complement is found in the map, return the indices
-            if (mpp.find(moreNeeded) != mpp.end()) {
-                return {mpp[moreNeeded], i}; // Return the index of the complement and current index
-            }
-            
-            // Store the current number with its index in the map
-            mpp[num] = i;
+          unordered_map<int, int> seen;  // stores number and its index
+
+    for (int i = 0; i < nums.size(); i++) {
+        int current = nums[i];
+        int needed = target - current;  // what number we are looking for
+
+        // check if needed number is already in the map
+        if (seen.find(needed) != seen.end()) {
+            return {seen[needed], i};  // return indices
         }
-        
-        return {-1, -1}; // Return {-1, -1} if no solution found
-    
+
+        // store the current number with its index
+        seen[current] = i;
     }
+
+    return {}; // just in case, though question says one solution always exists
+}
 };
