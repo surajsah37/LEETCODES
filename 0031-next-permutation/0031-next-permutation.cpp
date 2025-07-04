@@ -1,27 +1,20 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int n = nums.size(); // Get the size of the array
-        int i, j;
-
-        // Step 1: Find the first decreasing element from the right
-        for (i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {   // Identify the pivot where the order breaks
-                break;
-            }
+        int n=nums.size();
+        int i=n-2;
+        // find the pivot element
+        while(i>=0 && nums[i]>=nums[i+1]){
+            i--;
         }
-
-        // Step 2: If such an element is found, find the element just larger than it
-        if (i >= 0) {
-            for (j = n - 1; j > i; j--) { // Start searching from the rightmost side
-                if (nums[j] > nums[i]) { // Find the next greater element
-                    break;
-                }
+        // finding the next bigger element
+        if(i>=0){
+            int j=n-1;
+            while(nums[j]<=nums[i]){
+                j--;
             }
-            swap(nums[i], nums[j]); // Swap the two elements
+            swap(nums[i],nums[j]);
         }
-
-        // Step 3: Reverse the remaining right portion to get the next permutation
-        reverse(nums.begin() + i + 1, nums.end());
+     reverse(nums.begin()+i+1,nums.end());
     }
 };
