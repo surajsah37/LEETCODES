@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/surajsah37/LEETCODES/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajsah37/LEETCODES/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/surajsah37/LEETCODES/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/surajsah37/LEETCODES/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/surajsah37/LEETCODES/tree/master/0678-valid-parenthesis-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/surajsah37/LEETCODES/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajsah37/LEETCODES/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/surajsah37/LEETCODES/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/surajsah37/LEETCODES/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surajsah37/LEETCODES/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/surajsah37/LEETCODES/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/surajsah37/LEETCODES/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/surajsah37/LEETCODES/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/surajsah37/LEETCODES/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/surajsah37/LEETCODES/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/surajsah37/LEETCODES/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/surajsah37/LEETCODES/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/surajsah37/LEETCODES/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/surajsah37/LEETCODES/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
@@ -651,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/surajsah37/LEETCODES/tree/master/0062-unique-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/surajsah37/LEETCODES/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
