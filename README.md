@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/surajsah37/LEETCODES/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/surajsah37/LEETCODES/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/surajsah37/LEETCODES/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/surajsah37/LEETCODES/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/surajsah37/LEETCODES/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/surajsah37/LEETCODES/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/surajsah37/LEETCODES/tree/master/0189-rotate-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/surajsah37/LEETCODES/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/surajsah37/LEETCODES/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/surajsah37/LEETCODES/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/surajsah37/LEETCODES/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/surajsah37/LEETCODES/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/surajsah37/LEETCODES/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/surajsah37/LEETCODES/tree/master/0131-palindrome-partitioning) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/surajsah37/LEETCODES/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/surajsah37/LEETCODES/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/surajsah37/LEETCODES/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/surajsah37/LEETCODES/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/surajsah37/LEETCODES/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/surajsah37/LEETCODES/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/surajsah37/LEETCODES/tree/master/0222-count-complete-tree-nodes) |
