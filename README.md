@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/surajsah37/LEETCODES/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/surajsah37/LEETCODES/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/surajsah37/LEETCODES/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/surajsah37/LEETCODES/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/surajsah37/LEETCODES/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/surajsah37/LEETCODES/tree/master/0239-sliding-window-maximum) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/surajsah37/LEETCODES/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/surajsah37/LEETCODES/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/surajsah37/LEETCODES/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/surajsah37/LEETCODES/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/surajsah37/LEETCODES/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/surajsah37/LEETCODES/tree/master/0403-frog-jump) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/surajsah37/LEETCODES/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajsah37/LEETCODES/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/2047-find-a-peak-element-ii) |
 ## Sorting
