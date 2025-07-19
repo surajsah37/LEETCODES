@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/surajsah37/LEETCODES/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/surajsah37/LEETCODES/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/surajsah37/LEETCODES/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/surajsah37/LEETCODES/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0792-binary-search) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/surajsah37/LEETCODES/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/surajsah37/LEETCODES/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/surajsah37/LEETCODES/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/surajsah37/LEETCODES/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/surajsah37/LEETCODES/tree/master/0890-lemonade-change) |
