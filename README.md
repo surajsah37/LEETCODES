@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/surajsah37/LEETCODES/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/surajsah37/LEETCODES/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/surajsah37/LEETCODES/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/surajsah37/LEETCODES/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajsah37/LEETCODES/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/surajsah37/LEETCODES/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/surajsah37/LEETCODES/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/surajsah37/LEETCODES/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/surajsah37/LEETCODES/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/surajsah37/LEETCODES/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/surajsah37/LEETCODES/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/surajsah37/LEETCODES/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/0392-is-subsequence) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/surajsah37/LEETCODES/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/surajsah37/LEETCODES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/surajsah37/LEETCODES/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/surajsah37/LEETCODES/tree/master/0338-counting-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/surajsah37/LEETCODES/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/surajsah37/LEETCODES/tree/master/2323-minimum-bit-flips-to-convert-number) |
