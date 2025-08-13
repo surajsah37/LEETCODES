@@ -1,47 +1,33 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> ans;
-        
-        if (root == nullptr) {
-            return ans; // Early return if tree is empty
+   vector<vector<int>> levelOrder(TreeNode* root) {
+    vector<vector<int>> result;     // Final answer: each vector<int> stores one level
+
+    if (!root)                      // If tree is empty, return empty result
+        return result;
+
+    queue<TreeNode*> q;              // Queue to store nodes for BFS
+    q.push(root);                    // Start with root node in the queue
+
+    while (!q.empty()) {             // Repeat until queue is empty (no more nodes)
+        int size = q.size();         // Number of nodes in current level
+        vector<int> level;           // Vector to store values of current level
+
+        for (int i = 0; i < size; i++) {   // Process all nodes of current level
+            TreeNode* node = q.front();    // Get the first node from the queue
+            q.pop();                       // Remove it from the queue
+
+            level.push_back(node->val);    // Add its value to current level list
+
+            if (node->left)                // If left child exists
+                q.push(node->left);        // Add left child to queue
+            if (node->right)               // If right child exists
+                q.push(node->right);       // Add right child to queue
         }
 
-        queue<TreeNode*> q;  // BFS queue
-        q.push(root);
-
-        while (!q.empty()) {
-            int size = q.size();         // Number of nodes in current level
-            vector<int> level;           // List to store this level's values
-
-            for (int i = 0; i < size; i++) {
-                TreeNode* node = q.front(); 
-                q.pop();
-
-                level.push_back(node->val); // Add node value to level
-
-                if (node->left != nullptr) {
-                    q.push(node->left);     // Add left child
-                }
-                if (node->right != nullptr) {
-                    q.push(node->right);    // Add right child
-                }
-            }
-
-            ans.push_back(level); // Add current level to answer
-        }
-
-        return ans;
+        result.push_back(level);           // Add current level's values to result
     }
+
+    return result;                         // Return the final level order result
+}
 };
