@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/surajsah37/LEETCODES/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/surajsah37/LEETCODES/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/surajsah37/LEETCODES/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/surajsah37/LEETCODES/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/surajsah37/LEETCODES/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/surajsah37/LEETCODES/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/surajsah37/LEETCODES/tree/master/0326-power-of-three) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/surajsah37/LEETCODES/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/surajsah37/LEETCODES/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/surajsah37/LEETCODES/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/surajsah37/LEETCODES/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/surajsah37/LEETCODES/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/surajsah37/LEETCODES/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/surajsah37/LEETCODES/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/surajsah37/LEETCODES/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/surajsah37/LEETCODES/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
