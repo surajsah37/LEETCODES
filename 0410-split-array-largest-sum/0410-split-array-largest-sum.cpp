@@ -8,23 +8,19 @@ public:
             // split the maxsum
             int count=1;
             int currentsum=0;
-            for(int num:nums){
+            for(int num: nums)
+            {
                 if(currentsum+num>mid){
                     count++;
-                    currentsum=num;
-                }
+                    currentsum=num;   }
                 else{
                     currentsum+=num;
-                }
-            }
+                }  }
             // if we split into two or more part
             if(count<=k){
-                right=mid;
-            }
+                right=mid;  }
             else{
                 left=mid+1;
-            }
-        }
-        return left;
-    }
+            }  }
+        return left;   }
 };
