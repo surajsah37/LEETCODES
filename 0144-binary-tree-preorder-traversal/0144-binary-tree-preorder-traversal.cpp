@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> result;                     // Stores preorder traversal values
+        vector<int> result;                     
         if (!root) return result;               // If tree is empty, return empty result
 
         stack<TreeNode*> st;                     // Stack to simulate recursion
