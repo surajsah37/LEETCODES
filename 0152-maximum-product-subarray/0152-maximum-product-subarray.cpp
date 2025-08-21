@@ -16,7 +16,6 @@ public:
 
         result = max(result, maxProd);
     }
-
     return result;
     }
 };
