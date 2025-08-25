@@ -1,32 +1,29 @@
 class Solution {
 public:
-    int l = INT_MAX;
-    int r = INT_MIN;
-
-    void solve(TreeNode* root, map<int, map<int, vector<int>>>& mp, int level, int hight) {
-        if (!root) return;
-
-        l = min(l, level);
-        r = max(r, level);
-
-        mp[level][hight].push_back(root->val);
-
-        solve(root->left, mp, level - 1, hight + 1);
-        solve(root->right, mp, level + 1, hight + 1);
-    }
-
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        map<int, map<int, vector<int>>> mp;   // ordered map
+        // column -> row -> multiset of nodes
+        map<int, map<int, multiset<int>>> nodes;
+        queue<tuple<TreeNode*, int, int>> q;  // node, col, row
+
+        q.push({root, 0, 0});
+
+        while (!q.empty()) {
+            auto [node, col, row] = q.front();
+            q.pop();
+
+            nodes[col][row].insert(node->val);
+
+            if (node->left)
+                q.push({node->left, col - 1, row + 1});
+            if (node->right)
+                q.push({node->right, col + 1, row + 1});
+        }
+
         vector<vector<int>> ans;
-
-        solve(root, mp, 0, 0);
-
-        for (int i = l; i <= r; i++) {
+        for (auto &colPair : nodes) {
             vector<int> col;
-            for (auto &p : mp[i]) {  // iterate all heights in order
-                auto nodes = p.second;
-                sort(nodes.begin(), nodes.end()); // same position -> sort
-                col.insert(col.end(), nodes.begin(), nodes.end());
+            for (auto &rowPair : colPair.second) {
+                col.insert(col.end(), rowPair.second.begin(), rowPair.second.end());
             }
             ans.push_back(col);
         }
