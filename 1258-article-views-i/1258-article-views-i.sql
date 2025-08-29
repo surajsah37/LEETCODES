@@ -1,4 +1,4 @@
 SELECT DISTINCT author_id AS id
 FROM Views
-WHERE author_id=viewer_id
-ORDER BY id
+WHERE viewer_id = author_id
+ORDER BY id ASC;
