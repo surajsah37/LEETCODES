@@ -24,8 +24,7 @@ public:
             else{
                 cnt1--;
                 cnt2--;
-            }
-        }
+            }   }
         vector<int> ans;
         int freq1 = 0, freq2 = 0;
         for(int i = 0; i < n; i++){
@@ -34,8 +33,7 @@ public:
             }
             else if(nums[i] == ele2){
                 freq2++;
-            }
-        }
+            }  }
         if(freq1 > floor(n/3))
         ans.push_back(ele1);
         if(freq2 > floor(n/3))
