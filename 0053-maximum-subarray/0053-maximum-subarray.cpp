@@ -3,9 +3,9 @@ public:
     int maxSubArray(vector<int>& nums) {
     int maxsum = INT_MIN; 
     int currentsum = 0;    
-    for(int num:nums)
+    for(int i=0;i<nums.size();i++)
     {
-        currentsum+=num;
+        currentsum+=nums[i];
         maxsum = max(maxsum, currentsum); 
         
         if (currentsum < 0) 
