@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/surajsah37/LEETCODES/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/surajsah37/LEETCODES/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/surajsah37/LEETCODES/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2737-row-with-maximum-ones](https://github.com/surajsah37/LEETCODES/tree/master/2737-row-with-maximum-ones) |
 | [3790-fruits-into-baskets-ii](https://github.com/surajsah37/LEETCODES/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/surajsah37/LEETCODES/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajsah37/LEETCODES/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/surajsah37/LEETCODES/tree/master/2047-find-a-peak-element-ii) |
+| [2737-row-with-maximum-ones](https://github.com/surajsah37/LEETCODES/tree/master/2737-row-with-maximum-ones) |
 ## Sorting
 |  |
 | ------- |
