@@ -1,26 +1,26 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char, int> m;
+        unordered_map<char, int> roman{
+            {'I', 1}, {'V', 5}, {'X', 10}, {'L', 50},
+            {'C', 100}, {'D', 500}, {'M', 1000}
+        };
         
-        m['I'] = 1;
-        m['V'] = 5;
-        m['X'] = 10;
-        m['L'] = 50;
-        m['C'] = 100;
-        m['D'] = 500;
-        m['M'] = 1000;
-        
-        int ans = 0;
-        
-        for(int i = 0; i < s.length(); i++){
-            if(m[s[i]] < m[s[i+1]]){
-                ans -= m[s[i]];
-            }
-            else{
-                ans += m[s[i]];
-            }
+        int total = 0; 
+        int prev = 0; 
+
+        // Traverse from right to left
+        for (int i = s.size() - 1; i >= 0; --i) {
+            int curr = roman[s[i]]; 
+
+            // If smaller value comes before larger, subtract it
+            if (curr < prev)
+                total -= curr;
+            else
+                total += curr;
+
+            prev = curr; // update previous for next comparison
         }
-        return ans;
+        return total;
     }
 };
