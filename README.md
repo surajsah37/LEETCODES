@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/surajsah37/LEETCODES/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajsah37/LEETCODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/surajsah37/LEETCODES/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/surajsah37/LEETCODES/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/surajsah37/LEETCODES/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/surajsah37/LEETCODES/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/surajsah37/LEETCODES/tree/master/0139-word-break) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/surajsah37/LEETCODES/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/surajsah37/LEETCODES/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/surajsah37/LEETCODES/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/surajsah37/LEETCODES/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/surajsah37/LEETCODES/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/surajsah37/LEETCODES/tree/master/0142-linked-list-cycle-ii) |
@@ -779,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/surajsah37/LEETCODES/tree/master/0023-merge-k-sorted-lists) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/surajsah37/LEETCODES/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
