@@ -1,28 +1,24 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-          if (s.length() != t.length()) 
-        return false; // If the lengths are different, they can't be isomorphic
-
-    vector<int> mapS(256, -1); // Array to store character mappings from string s to string t, initialized with -1
-    vector<int> mapT(256, -1); // Array to store character mappings from string t to string s, initialized with -1
-
-    for (int i = 0; i < s.length(); ++i) { // Traverse each character of both strings
-        char c1 = s[i]; // Current character from string s
-        char c2 = t[i]; // Current character from string t
-
-        // If no previous mapping exists for these characters
-        if (mapS[c1] == -1 && mapT[c2] == -1) {
-            mapS[c1] = c2; // Map character c1 to c2
-            mapT[c2] = c1; // Map character c2 to c1
-        }
-        // If a mapping exists but doesn't match the current characters
-        else if (mapS[c1] != c2 || mapT[c2] != c1) {
-            return false; // Mismatch found, strings are not isomorphic
-        }
-    }
-
-    return true; // All characters matched correctly, strings are isomorphic
-
-    }
-};
+        unordered_map<char, char> mp1; // s -> t
+        unordered_map<char, char> mp2; // t -> s
+        int m = s.length();
+        for (int i = 0; i < m; i++) {
+            char ch1 = s[i]; // Current character from string s
+            char ch2 = t[i];
+            // Check s -> t mapping     // Check if ch1 already has a mapping in mp1
+            if (mp1.count(ch1)) {
+                if (mp1[ch1] != ch2)
+                    return false;
+            } else {
+                mp1[ch1] = ch2;  }
+            // Check t -> s mapping
+            if (mp2.count(ch2)) {
+                if (mp2[ch2] != ch1)
+                    return false;
+            } else {
+                mp2[ch2] = ch1;
+            } }
+        return true;
+    }};
