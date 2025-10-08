@@ -2,17 +2,14 @@ class Solution {
 public:
 int myAtoi(string s) {
     int i = 0, n = s.length();
-    // Step 1: Ignore leading whitespaces
-    while (i < n && s[i] == ' ') {
+    while (i < n && s[i] == ' ') {// Step 1: Ignore leading whitespaces
         i++;
     }
-    // Step 2: Check for sign
-    int sign = 1;
+    int sign = 1;     // Step 2: Check for sign
     if (i < n && (s[i] == '-' || s[i] == '+')) {
         if (s[i] == '-') sign = -1;
         i++; }
-    // Step 3: Convert digits to number
-    long long result = 0;
+    long long result = 0;      // Step 3: Convert digits to number
     while (i < n && isdigit(s[i])) {
         result = result * 10 + (s[i] - '0');
         // Step 4: Handle overflow
