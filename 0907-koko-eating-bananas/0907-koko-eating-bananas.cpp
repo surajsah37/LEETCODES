@@ -11,10 +11,10 @@ public:
             }
             if(hour<=h){
                 high=mid;
+               
             }
-            else{
-                low=mid+1;
-            }
+            else
+             low=mid+1;
         }
         return low;
     }
