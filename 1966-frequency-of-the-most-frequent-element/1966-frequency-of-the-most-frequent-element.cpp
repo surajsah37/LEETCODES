@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxFrequency(vector<int>& nums, int k) {
-         sort(nums.begin(), nums.end());  // Step 1: Sort the array
+        sort(nums.begin(), nums.end());  // Step 1: Sort the array
         long long total = 0;
         int left = 0, result = 0;
        
