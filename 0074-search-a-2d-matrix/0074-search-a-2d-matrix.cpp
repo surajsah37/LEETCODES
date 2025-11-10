@@ -18,7 +18,6 @@ public:
         else
             right = mid - 1;  // Search left half
     }
-    
     return false;  // Target not found
 }
 };
