@@ -6,7 +6,6 @@ public:
         
         int row = 0;
         int col = n - 1;
-
         while (row < m && col >= 0) {
             if (matrix[row][col] == target) {
                 return true;
@@ -16,7 +15,6 @@ public:
                 row++; // move down
             }
         }
-
         return false; // target not found
     }
 
