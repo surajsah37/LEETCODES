@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/surajsah37/LEETCODES/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/surajsah37/LEETCODES/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/surajsah37/LEETCODES/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/surajsah37/LEETCODES/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/surajsah37/LEETCODES/tree/master/0907-koko-eating-bananas) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/surajsah37/LEETCODES/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/surajsah37/LEETCODES/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/surajsah37/LEETCODES/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/surajsah37/LEETCODES/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/surajsah37/LEETCODES/tree/master/1046-max-consecutive-ones-iii) |
