@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/surajsah37/LEETCODES/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/surajsah37/LEETCODES/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/surajsah37/LEETCODES/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/surajsah37/LEETCODES/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/surajsah37/LEETCODES/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/surajsah37/LEETCODES/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/surajsah37/LEETCODES/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/surajsah37/LEETCODES/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/surajsah37/LEETCODES/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/surajsah37/LEETCODES/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
