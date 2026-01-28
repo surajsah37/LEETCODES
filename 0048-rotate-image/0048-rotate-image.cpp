@@ -1,8 +1,7 @@
 class Solution {
 public:
     void rotate(vector<vector<int> >& matrix) {
-        
-    int n=matrix.size();
+      int n=matrix.size();
       // Step 1: Transpose the matrix (swap elements across the diagonal)
     for (int i = 0; i < n; i++) {
         for (int j = i + 1; j < n; j++) { // Ensure swapping only in upper triangle
@@ -14,5 +13,5 @@ public:
     for (int i = 0; i < n; ++i) {
         reverse(matrix[i].begin(), matrix[i].end()); // Reverse each row
     }
-}
+    }
 };
