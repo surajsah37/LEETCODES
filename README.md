@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/surajsah37/LEETCODES/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/surajsah37/LEETCODES/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/surajsah37/LEETCODES/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/surajsah37/LEETCODES/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/surajsah37/LEETCODES/tree/master/0875-koko-eating-bananas) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/surajsah37/LEETCODES/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/surajsah37/LEETCODES/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajsah37/LEETCODES/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/surajsah37/LEETCODES/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/surajsah37/LEETCODES/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/surajsah37/LEETCODES/tree/master/0882-peak-index-in-a-mountain-array) |
