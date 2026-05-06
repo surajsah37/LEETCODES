@@ -3,9 +3,7 @@ public:
     string removeOuterParentheses(string s) {
         string result = "";
         int depth = 0;
-
         for(char c : s) {
-
             if(c == '(') {
                 if(depth > 0)
                     result += c;
@@ -17,7 +15,6 @@ public:
                     result += c;
             }
         }
-
         return result;
     }
 };
